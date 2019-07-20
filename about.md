@@ -1,18 +1,9 @@
 ---
 layout: page
-title: About
+title: Adventus
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Hello there! Welcome to Adventus, a blog by Ashvin Nagarajan. This is a site I created to write down some random thoughts and experiences for no particular purpose. Feel free to read the posts or don't. Thanks for visiting my page. Go check out my website at [ashvinnagarajan.github.io](https://ashvinnagarajan.github.io/)
 
 
-[jekyll-organization]: https://github.com/jekyll
