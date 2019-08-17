@@ -16,7 +16,3 @@ And being surrounded by so many people doesn't make me feel any less alone. In t
 I’m sure I sound super dramatic right now and I don’t mean to be. I emphatically love so many things about being at college from my friends to the energy to the opportunities. I learn from the brightest minds in the world and experience cutting edge technology on a daily basis. In the past year alone my perceptions of the world have changed significantly. 
 
 And this is exactly what led to the birth of *Adventus*. I’m sure I’ll have many more strong opinions that I look forward to sharing here. I also eagerly look forward to your feedback and responses to these topics so that we may continue the conversation past the screen! Feel free to reach out at _ashvinagarajan@gmail.com_ or on social media.  
-
-Yours, 
-
-Ashvin Nagarajan 

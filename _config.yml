@@ -21,6 +21,7 @@ baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ashvinnagarajan
 linkedin_username: ashvin-nagarajan
+web_address: ashvinnagarajan.github.io
 
 author: Ashvin Nagarajan
 
@@ -41,4 +42,4 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-primer
