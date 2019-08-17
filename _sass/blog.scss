@@ -15,3 +15,27 @@ $color-gray: #FFFFFF;
 .excerpt {
     color: $color-gray;
 }
+
+.post-head {
+    display: flex;
+}
+
+.post-info {
+    margin-left: 45%;
+}
+
+.footer-text {
+    color: white;
+}
+
+.footer-link {
+    color: white;
+}
+
+.footer-link:hover {
+    color: white;
+}
+
+.footer-link:visited {
+    color: white;
+}
