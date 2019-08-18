@@ -22,7 +22,7 @@ layout: default
         <li class="post-item">
           {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
           <div class="post-head">
-            <h3>
+            <h3 class="post-link">
               <a class="post-link" href="{{ post.url | relative_url }}">
                 {{ post.title | escape }}
               </a>
