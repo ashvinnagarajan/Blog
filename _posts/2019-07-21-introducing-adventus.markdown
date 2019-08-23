@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introducing.... Adventus
+title: Introducing Adventus
 categories: [Life]
 tags: [introduction, Ashvin, Adventus]
 excerpt_separator: <!--more-->
