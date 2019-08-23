@@ -22,8 +22,13 @@ $color-gray: #FFFFFF;
     display: flex;
 }
 
+.post-no-wrap {
+    overflow: hidden;
+}
+
 .post-link {
-    width: 400px;
+    width: 100%;
+    white-space: nowrap;
 }
 
 .post-info {
