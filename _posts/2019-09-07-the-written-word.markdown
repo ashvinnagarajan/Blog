@@ -24,6 +24,7 @@ Senior year of high school finally chased away my growing distaste for reading. 
 I came across a relevant quote a long time ago that has long slipped my memory but I will paraphrase it. 
 
 > Videos consume so much of our time but it takes a few days or, at most, a couple of weeks to put one together. Good books are often the culmination of years of someone's life work. 
+
 <br/><br/>
 Now in college, I know few people who read assigned texts in their entirety. Few people who make the time to read the book before watching the latest Hollywood blockbuster. Few people who find any enjoyment in picking up a book at all. And honestly they aren't to be held in any fault of their own. Videos are easily digestible and readily available.
 <br/><br/>
