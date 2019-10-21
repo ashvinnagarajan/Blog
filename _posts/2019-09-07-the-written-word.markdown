@@ -25,7 +25,6 @@ I came across a relevant quote a long time ago that has long slipped my memory b
 
 > Videos consume so much of our time but it takes a few days or, at most, a couple of weeks to put one together. Good books are often the culmination of years of someone's life work. 
 
-<br/>
 Now in college, I know few people who read assigned texts in their entirety. Few people who make the time to read the book before watching the latest Hollywood blockbuster. Few people who find any enjoyment in picking up a book at all. And honestly they aren't to be held in any fault of their own. Videos are easily digestible and readily available.
 <br/><br/>
 Certainly I don't have nearly as much time as I would like to devote to reading, but it is still a meaningful part of my weekly routine. I always carry a book or two in my bag which have come in handy when I have a break in between classes. I'm not the fastest reader - pretty average actually - and I don't have the greatest literary insight, but I enjoy the kernels of wisdom or themes that I unpack in a novel. I have a personal rule to read from multiple different genres before repeating. I have found that it motivates me to read more and I learn a lot about very different topics. You can check out my <a href="https://www.goodreads.com/review/list/99496080">Goodreads</a> list if you interested in seeing what I am currently reading. 
