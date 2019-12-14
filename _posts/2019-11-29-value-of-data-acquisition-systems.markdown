@@ -1,0 +1,22 @@
+---
+layout: post
+title: The Value of Data… Acquisition Systems
+categories: [College]
+tags: [SMV, cars, data, engineering, project]
+excerpt_separator: <!--more-->
+---
+**As** of this month, the long anticipated data acquisition has finally been put in action! A lot of my spare time at college is devoted to Super Mileage Vehicle (SMV), an organization trying to build the most efficient electric vehicle ever designed. I've been working for the past few months on a system that will compile information from sensors around the vehicle so that we can analyze statistics and data from our car in real time. This is one of the more involved projects that I've taken on so I wanted to take some time to consider the progress that has been made and discuss my key takeaways. 
+<br/><br/>
+Anyone who knows me should know that I am hugely into cars. There is just something about the amazing design and engineering principles about them in particular that I love. Decades of ingenuity have gone into devices as commonplace as seatbelts. So it was only natural for my first club at college to be one dedicated to this passion. Add on the fact that Super Mileage Vehicle has an electric vehicle, and it was an easy sell. 
+<br/><br/>
+Even from the start of my experience working on SMV, I could see the incredible value that we could extract by having access to fast and reliable information about the performance of our vehicle. Imagine the infotainment section of the latest BMW but with a lot more information and not as much entertainment. With access to the latest tech and amazing sponsors, the sky was really the limit. 
+<br/><br/>
+With verifiable information, we would no longer have to rely on intuition alone for critical choices. A prototype design can be tested and proven before being moved into final production. The system could determine how much power we are consuming at any given instant, allowing us to propose improvements for driver strategy. Forces can be measured with sensors so we can accurately simulate a model with FEA tools. In the end, the efficiency values will speak for themselves to track our organization's progress. 
+<br/><br/>
+So that’s exactly what I set out to build. I became the lead of a brand new subsystem called EV Special Projects where the objective is to take a data first approach to all design and engineering decisions. The data acquistion system would have to be built from scratch, customizing and optimizing every feature for our vehicle's unique needs. 
+<br/><br/>
+Sort of by coincidence, I was working a lot with the React.js web framework for my summer internship. It is perfect for exactly this sort of purpose since components can rerender when new information is updated. I settled on that for the web interface and a lightweight database service called Firebase by Google to store information on the cloud. Understanding the technical jargon was a bit frustrating at first but a wise consultant (thanks Matt) helped ease the struggles. Within a few days, the website was updating as intended, and I took time to focus on the UI. I wanted it to be modern, but easy to read and understand. You can check out our current driver dashboard at this link: <a href="ashvin.dev/dashboard">ashvin.dev/dashboard</a>. 
+<br/><br/>
+Simultaniously, I started working on the microcontrollers and CPUs that we would be using to collect and trasmit data from the vehicle. This would require sensors around the car to feed information via I2C or digital pins to a central hub that can process and upload data. After deliberation, I decided to use a LattePanda, a beefier RasPi, to run a python script for the data upload process and serve as the master receiver. Using a serial port, I connected a Teensy 3.5 MCU which has pins to the various sensors. Setting it up in these two stages largely simplified the code base that needed to be modified in case I wanted new sensors and it was much easier to debug. You can check out all the code including the Python scripts for data upload as well as the Microcontroller code to collect data on my github: <a href="https://github.com/ashvinnagarajan">github.com/ashvinnagarajan</a>.
+<br/><br/>
+After the high level React front-end was merged with the low level MCU back-end, I was finally ready to test the integrated system. As expected, there were issues since the LattePanda was running Windows 10 so I needed to install a Linux operating system in order to get full control over 
