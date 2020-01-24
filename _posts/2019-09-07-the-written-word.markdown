@@ -3,6 +3,7 @@ layout: post
 title: The Written Word
 categories: [Opinions]
 tags: [reading, education, leisure]
+date: 2019-09-07
 excerpt_separator: <!--more-->
 ---
 

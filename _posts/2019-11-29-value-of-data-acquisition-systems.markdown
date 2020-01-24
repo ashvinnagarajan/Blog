@@ -3,6 +3,7 @@ layout: post
 title: The Value of Data… Acquisition Systems
 categories: [College]
 tags: [SMV, cars, data, engineering, project]
+date: 2019-11-29
 excerpt_separator: <!--more-->
 ---
 **As** of this month, the long-anticipated data acquisition has finally been put in action! A lot of my spare time at college is devoted to Super Mileage Vehicle (SMV), an organization trying to build the most efficient electric vehicle ever designed. I've been working for the past few months on a system that will compile information from sensors around the vehicle so that we can analyze statistics and data from our car in real time. This is one of the more involved projects that I've taken on, so I wanted to take some time to consider the progress that has been made and discuss my key takeaways. <!--more-->

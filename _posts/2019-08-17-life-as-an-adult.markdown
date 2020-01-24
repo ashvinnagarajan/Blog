@@ -3,6 +3,7 @@ layout: post
 title: Life as an Adult
 categories: [Life]
 tags: [work, Booz, Allen, Hamilton, groceries, summer, 2019]
+date: 2019-08-17
 excerpt_separator: <!--more-->
 ---
 
