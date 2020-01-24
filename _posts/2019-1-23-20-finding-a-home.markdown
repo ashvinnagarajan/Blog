@@ -3,6 +3,7 @@ layout: post
 title: Finding a Home
 categories: [Life]
 tags: [home, New Jersey, friends, break]
+date: 2020-01-23
 excerpt_separator: <!--more-->
 ---
 

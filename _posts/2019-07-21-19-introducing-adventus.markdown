@@ -4,6 +4,7 @@ title: Introducing Adventus
 categories: [Life]
 tags: [introduction, Ashvin, Adventus]
 excerpt_separator: <!--more-->
+date: 2019-07-21
 ---
 
 **Welcome** to the innaugural post on my blog! This is something that I have been interested in starting for a long time and I am proud to say it has finally arrived. I wanted to have a space of my very own to lay out thoughts about the world around me. From metaphysics to mathematics, logics to lyrics, this will hopefully serve as an incubator. Perhaps I will even get to see some progression and growth of ideas as the years pass. <!--more-->
