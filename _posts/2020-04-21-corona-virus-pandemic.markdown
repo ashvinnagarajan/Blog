@@ -7,7 +7,7 @@ date: 2020-04-21
 excerpt_separator: <!--more-->
 ---
 
-Over 5 weeks have passed since UCLA transitioned to remote learning due to the Coronavirus (COVID-19). This is an unprecedented world crisis in a number of ways, and boy am I shocked at how much things have changed in a very short period of time. For my own historical recordkeeping purposes, I've listed some interesting facts as a result of this pandemic. Maybe you'll find them interesting as well. I'll also discuss the impact of this tragic event on the lives of my peers. After we return to some semblance of normalcy, I'll do an update section so stay tuned for that. 
+**Over** 5 weeks have passed since UCLA transitioned to remote learning due to the Coronavirus (COVID-19). This is an unprecedented world crisis in a number of ways, and boy am I shocked at how much things have changed in a very short period of time. For my own historical recordkeeping purposes, I've listed some interesting facts as a result of this pandemic. Maybe you'll find them interesting as well. I'll also discuss the impact of this tragic event on the lives of my peers. After we return to some semblance of normalcy, I'll do an update section so stay tuned for that. 
 <!--more-->
 <br/><br/>
 Peter Thiel is a popular entrepreneur and venture capitalist most known for founding PayPal and the Founders Fund. He is a self-proclaimed contrarian, an individual who rejects popular opinion. When he came to my university last year to give a talk, I disagreed with his overtly pessimistic attitude towards modern innovation. He asserted that scientific progress has stalled in the last few decades, a seldom heard perspective in today's age of technological revolution. 
